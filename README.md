@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jakubbartkowski
 - 👀 I’m interested in front-end and design
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 
 
 <!---

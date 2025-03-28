@@ -1,6 +1,6 @@
 # Hi, I'm @jakubbartkowski 👨🏻‍💻 — Frontend Developer | UI/UX Designer 🌱
 
-Welcome to my GitHub! I'm a passionate frontend developer with skills in React.js, Tailwind CSS, and WooCommerce PHP development. With a background in both development and design, I specialize in creating modern, performant, and user-focused web solutions.
+Welcome to my GitHub! I'm a passionate frontend developer with skills in React.js, Next.js, Tailwind CSS, and WooCommerce PHP development. With a background in both development and design, I specialize in creating modern, performant, and user-focused web solutions.
 
 ---
 

@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate frontend developer with skills in React.j
 
 ## Fueled by Curiosity
 
-I believe curiosity is one of the most powerful drivers of growth. Whether it's diving into **Deep Learning**, exploring new ways to improve user experience, or automating workflows in eCommerce, I'm always eager to learn, experiment, and push beyond what I already know.
+I believe curiosity is one of the most powerful drivers of growth. Whether it's diving into exploring new ways to improve user experience or automating workflows in eCommerce, I'm always eager to learn, experiment, and push beyond what I already know.
 
 ---
 

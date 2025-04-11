@@ -45,7 +45,7 @@ Feel free to reach out or follow me on GitHub to stay updated.
 
 ---
 
-> “Work smarter, design sharper, code cleaner — and stay curious.”
+> “Work smarter, design sharper, code cleaner, stay curious.”
 
 
 <!---

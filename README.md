@@ -1,4 +1,4 @@
-# Hi, I'm @jakubbartkowski 👨🏻‍💻 — Frontend Developer | UI/UX Designer 🌱
+# Hi, I'm @jakubbartkowski 👨🏻‍💻 — Indie Fullstack Developer | UI/UX Designer 🌱
 
 > “Work smarter, design sharper, code cleaner, stay curious.”
 

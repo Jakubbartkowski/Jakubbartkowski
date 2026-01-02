@@ -1,6 +1,6 @@
-# Hi, I'm @jakubbartkowski 👨🏻‍💻 — Indie Fullstack Developer | UI/UX Designer 🌱
+Independent software developer & designer.
 
-> “Work smarter, design sharper, code cleaner, stay curious.”
+I build digital products and web applications with a focus on clarity, usability, and long-term scalability.
 
 
 <!---

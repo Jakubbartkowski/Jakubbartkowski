@@ -1,6 +1,4 @@
-Independent software developer & designer.
-
-I build digital products and web applications with a focus on clarity, usability, and long-term scalability.
+Dev & Design ✳︎ Curiosity-driven
 
 
 <!---
